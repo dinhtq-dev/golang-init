@@ -1,0 +1,16 @@
+INFO: 2024/11/16 00:13:20 /Users/dinhtq/Documents/source/golang/main.go:50: Application started successfully.
+WARNING: 2024/11/16 00:13:20 /Users/dinhtq/Documents/source/golang/main.go:53: This is a warning message, something to look at.
+ERROR: 2024/11/16 00:13:20 /Users/dinhtq/Documents/source/golang/main.go:56: An error occurred while connecting to the database.
+INFO: 2024/11/16 00:13:20 /Users/dinhtq/Documents/source/golang/main.go:60: User 123 logged in.
+INFO: 2024/11/16 00:14:01 /Users/dinhtq/Documents/source/golang/main.go:50: Application started successfully.
+WARNING: 2024/11/16 00:14:01 /Users/dinhtq/Documents/source/golang/main.go:53: This is a warning message, something to look at.
+ERROR: 2024/11/16 00:14:01 /Users/dinhtq/Documents/source/golang/main.go:56: An error occurred while connecting to the database.
+INFO: 2024/11/16 00:14:01 /Users/dinhtq/Documents/source/golang/main.go:60: User 123 logged in.
+INFO: 2024/11/16 00:15:52 /Users/dinhtq/Documents/source/golang/main.go:50: Application started successfully.
+WARNING: 2024/11/16 00:15:52 /Users/dinhtq/Documents/source/golang/main.go:53: This is a warning message, something to look at.
+ERROR: 2024/11/16 00:15:52 /Users/dinhtq/Documents/source/golang/main.go:56: An error occurred while connecting to the database.
+INFO: 2024/11/16 00:15:52 /Users/dinhtq/Documents/source/golang/main.go:60: User 123 logged in.
+INFO: 2024/11/16 06:31:20 /Users/dinhtq/Documents/source/golang/main.go:40: Application started successfully.
+WARNING: 2024/11/16 06:31:20 /Users/dinhtq/Documents/source/golang/main.go:43: This is a warning message, something to look at.
+ERROR: 2024/11/16 06:31:20 /Users/dinhtq/Documents/source/golang/main.go:46: An error occurred while connecting to the database.
+INFO: 2024/11/16 06:31:20 /Users/dinhtq/Documents/source/golang/main.go:50: User 123 logged in.
